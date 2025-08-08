@@ -1,6 +1,9 @@
-# 💫 About Me:
-# Hi there, I'm Bigem 👋<br>🎓 Computer Science Student | 💻 Aspiring Software Developer  <br>🌱 Currently learning **Python, Web Development, and Open Source**  <br>🚀 Passionate about **AI, Blockchain, and Problem Solving**  <br><br>📫 Reach me at:[Email](micklescott367@gmail.com)<br>
+# Hi there, I'm Bigem 👋
+🎓 Computer Science Student | 💻 Aspiring Software Developer  
+🌱 Currently learning **Python, Web Development, and Open Source**  
+🚀 Passionate about **AI, Blockchain, and Problem Solving**  
 
+📫 Reach me at:| [Email](micklescott367@gmail.com)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bigem0272) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bigem86205) 
