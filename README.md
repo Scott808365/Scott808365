@@ -2,6 +2,7 @@
 🎓 Computer Science Student | 💻 Aspiring Software Developer  
 🌱 Currently learning **Python, Web Development, and Open Source**  
 🚀 Passionate about **AI, Blockchain, and Problem Solving**  
+**Im Passionate about developing innovative blockchain solutions and decentralized applications.**
 
 📫 Reach me at:| [Email](micklescott367@gmail.com)
 
